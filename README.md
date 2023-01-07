@@ -1,16 +1,7 @@
 # aprenda_ingles
 
-A new Flutter project.
+application for training phonetics for children, where clicking on the image will play the audio.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1673057782](https://user-images.githubusercontent.com/91546885/211127348-a4a38c71-6364-4735-b75f-2de33e71006b.png)
+![Screenshot_1673057785](https://user-images.githubusercontent.com/91546885/211127349-a7d2b7d7-281a-4904-9430-531fa056de70.png)
